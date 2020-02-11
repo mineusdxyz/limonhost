@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.limonhost.net	TRUE	/	FALSE	1999999999	__cfduid	d03fde457f9fbcb07d2bc78d53ab051c91581432854
+www.limonhost.net	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.limonhost.net	TRUE	/	FALSE	1999999999	ARRAffinity	08868abab5cf07a9622c2422293a6281023adc6974ff041fa915d34f72234bbe
+www.limonhost.net	TRUE	/	FALSE	1999999999	.AspNetCore.Antiforgery.w5W7x28NAIs	CfDJ8OsvOwcnFFdDrgMOrcZ9gF24W6aOXNj_22wtal6nBDLdO3N-Fa_7eiGvRl2Z9iJ_f9KJEt9ylLqPkNikgddDV0YPdyPJmL5KTKs7hgRDAyOXJAbLQMsRN6MG97qRbu0AzPwHLDUWYdrmgu5LLrdedkU
+www.limonhost.net	TRUE	/	FALSE	1999999999	samesite	strict
+.tidio.co	TRUE	/	FALSE	1999999999	__cfduid	dc2fde11f4ef76cc594949fcfcacd98071581432873
+code.tidio.co	TRUE	/	FALSE	1999999999	SameSite	Lax
+.tidiochat.com	TRUE	/	FALSE	1999999999	__cfduid	d9473af27409cfbe2f4f98a7e375c59941581432875
+widget-v4.tidiochat.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
